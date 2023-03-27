@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lrRcMimAE26O+vB3ILwj9POZ+3diG4iyq2Mf4IXXEqlvoOU1ccwLVl/x+ZhTWirfBKTYs6gnZBpwATD4IYwcFg==",
+  "dgSpecHash": "e66P2XqOsr+P3cBvGEK9WBYf+pk8NgYNBiS1NgKYWNZzcObYsPtUJZKv6eJQjQsgla7Wu5EqVx6OrzUnATkAcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\boratestar2\\boratestar2.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\boratestar2\\boraTestar2\\boratestar2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
